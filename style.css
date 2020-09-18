@@ -87,6 +87,18 @@ body{
 	color: var(--white);
 }
 
+.clb-1{
+	padding-top: 0rem;
+}
+
+.clb-2{
+	padding-top: 1rem;
+}
+
+.clb-3{
+	padding-top: 2rem;
+}
+
 @media only screen and (max-width: 991px) {
 
 	.ratings-2{
@@ -96,6 +108,19 @@ body{
 	.ratings-3{
 		margin-left: 0rem;
 	}
+
+	.clb-1{
+		padding-top: 0rem;
+	}
+
+	.clb-2{
+		padding-top: 0rem;
+	}
+
+	.clb-3{
+		padding-top: 0rem;
+	}
+
 
 }
 
